@@ -1,0 +1,12 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/omerf/Documents/Unreal Projects/In_Street_Gardening/Content/Garden_Game/Maps/Gardening_Corner.umap"
+			]
+		}
+	]
+}
